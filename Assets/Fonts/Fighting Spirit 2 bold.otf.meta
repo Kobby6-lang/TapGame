@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 55767d881c8a8a149914c60b29003f9f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fighting Spirit turbo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b1924398410339e49b0ccf0cbd6ca864, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
